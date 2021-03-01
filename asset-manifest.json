@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b59e47b.chunk.css",
+    "main.js": "/static/js/main.2814be1a.chunk.js",
+    "main.js.map": "/static/js/main.2814be1a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.98368423.js",
+    "runtime-main.js.map": "/static/js/runtime-main.98368423.js.map",
+    "static/js/2.99ab564e.chunk.js": "/static/js/2.99ab564e.chunk.js",
+    "static/js/2.99ab564e.chunk.js.map": "/static/js/2.99ab564e.chunk.js.map",
+    "static/js/3.b6b1f5b0.chunk.js": "/static/js/3.b6b1f5b0.chunk.js",
+    "static/js/3.b6b1f5b0.chunk.js.map": "/static/js/3.b6b1f5b0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6b59e47b.chunk.css.map": "/static/css/main.6b59e47b.chunk.css.map",
+    "static/js/2.99ab564e.chunk.js.LICENSE.txt": "/static/js/2.99ab564e.chunk.js.LICENSE.txt",
+    "static/media/logo.65ce7dfc.png": "/static/media/logo.65ce7dfc.png",
+    "static/media/margin.9fa04012.png": "/static/media/margin.9fa04012.png",
+    "static/media/sales_budget_icon.27a29e10.png": "/static/media/sales_budget_icon.27a29e10.png",
+    "static/media/ty_ly_icon.86523b9f.png": "/static/media/ty_ly_icon.86523b9f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98368423.js",
+    "static/js/2.99ab564e.chunk.js",
+    "static/css/main.6b59e47b.chunk.css",
+    "static/js/main.2814be1a.chunk.js"
+  ]
+}
